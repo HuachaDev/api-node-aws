@@ -26,6 +26,16 @@ API-NODE-AWS es un proyecto basado en Node.js que utiliza API Gateway, DynamoDB 
 - **Agregar Personaje**: 
   - `POST https://pjo5do9i3f.execute-api.us-east-2.amazonaws.com/persons`
   - Descripción: Agrega un nuevo personaje a la base de datos. Se requiere enviar un payload con la información del personaje.
+  - Example:
+  - {
+    "name": "",
+    "height": "",
+    "mass": "",
+    "hair_color": "",
+    "skin_color": "",
+    "eye_color": "",
+    "gender": "" 
+  }
 
 - **Leer Personajes**: 
   - `GET https://pjo5do9i3f.execute-api.us-east-2.amazonaws.com/persons`
