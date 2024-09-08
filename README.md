@@ -2,7 +2,7 @@
 
 ## Descripción
 
-API-NODE-AWS es un proyecto basado en Node.js que utiliza API Gateway, DynamoDB y AWS . Se implementa servicios relacionados con la API SWAPI. Este proyecto incluye funcionalidades para obtener, agregar y gestionar datos sobre personajes y films de Star Wars, traduciendo las claves de inglés a español.
+API-NODE-AWS es un proyecto basado en Node.js que utiliza API Gateway, DynamoDB y AWS . Se implementa servicios relacionados con la API SWAPI. Este proyecto incluye funcionalidades para obtener, agregar y gestionar datos sobre personajes y films de Star Wars, traduciendo las keys de inglés a español.
 
 ## Tecnologías Utilizadas
 
